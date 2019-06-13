@@ -6,6 +6,6 @@ Repositório oficial do site da aula de programação para web usando CSS
 
 ### Exemplo da construção do site
 
-<img src="pikachu.PNG">
+<img src="Desktop/pikachu.PNG">
 <br>
-<img src="bnha.PNG">
+<img src="Dsktop/bnha.PNG">
